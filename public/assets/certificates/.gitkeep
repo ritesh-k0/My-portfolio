@@ -1,0 +1,3 @@
+# Place certificate files or scans in this directory
+# e.g., c-lang-vap.png, apna-college-robotics.png
+# Refer to them in /src/data/portfolioData.ts
